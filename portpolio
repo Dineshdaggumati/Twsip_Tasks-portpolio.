@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portpolio web page</title>
+    <link rel="stylesheet" href="port.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbarright">
+            <a class="aele">About Me</a>
+            <a class="aele">MY Work</a>
+            <a class="aele">Projcts</a>
+            <a class="aele">Contact</a>
+        </div>
+    </div>
+    <div class="home">
+        <h1 class="heading">DAGGUMATI DINESH</h1>
+    </div>
+    <div class="homemid">
+        <div class="homesub">
+            <div class="sub">
+                <h1>About Me</h1>
+                <p>Greetings!I'm Dinesh,an ambitious web developer intern dedicated to creating digital experiences that resonate.Fuent in HTML and CSS.embrancing the ever-evolving world of web development,I amcommited to bith from and function,ensuring every project makes a lasting impact.</p>
+            </div>
+                <div class="sub">
+                    <h1>My work</h1>
+                    <p>Certainly! If you're working on web development for Topper World,Actively involved in coding and programming tasks, utilizing HTML and CSS to create robust and efficient web solutions.
+                        - Played a key role in the design and implementation of an intuitive user interface for webpage design, enhancing the overall user experience.
+                        - Collaborating closely with a talented team of developers, designers, and other professionals to brainstorm and implement innovative solutions.
+                        - Demonstrating a strong problem-solving mindset to address challenges in the web development process.
+                        -  ensuring a high-quality, error-free codebase aligned with Topper World's standards.
+                        - Committed to continuous learning, acquiring new skills, and staying updated with the latest technologies to enhance project efficiency and innovation.
+                        </p>
+                </div>
+                <div class="sub">
+                    <h1> My Projects           </h1>
+                    <p>actually this is my first project in web development, I had the privilege of working on my first project. This project provided a hands-on opportunity to apply and enhance my web development skills.
+                    </p>
+                </div>
+                
+        </div>
+        <div class="contact">
+            <h1>Contact</h1>
+            <p>Daggumati Dinesh</p>
+            <p>+91 1234567890</p>
+            <p>dineshdaggumati4613@gmail.com</p>
+        </div>
+        <div class="social">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" class="social-icon-img">
+            <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" class="social-icon-img">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" class="social-icon-img">
+        </div>
+    </div>
+</body>
+</html>
